@@ -17,9 +17,9 @@
   "author": "Petar Baykov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petbaik/vue-aepp/issues"
+    "url": "https://github.com/petbaik/vue-app-boilerplate/issues"
   },
-  "homepage": "https://github.com/petbaik/vue-aepp#readme",
+  "homepage": "https://github.com/petbaik/vue-app-boilerplate#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "clear": "^0.1.0",
