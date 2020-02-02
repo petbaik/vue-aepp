@@ -26,7 +26,7 @@ module.exports = {
             if(!projectInfo['project-name']) {
                 projectInfo['project-name'] = name
             }
-            download('code.zip','https://github.com/petbaik/vue-js-app-structure/archive/master.zip', name, function() {
+            download('vue-aepp-template.zip','https://github.com/petbaik/vue-aepp-template/archive/master.zip', name, function() {
                 const cwd = process.cwd() + "/" + name;
                 const intall = new Spinner('Installing dependencies...');
                 intall.start();
