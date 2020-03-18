@@ -27,7 +27,7 @@
     "clui": "^0.3.6",
     "figlet": "^1.2.4",
     "inquirer": "^7.0.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "request": "^2.88.0"
   }
 }
